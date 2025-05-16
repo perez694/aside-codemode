@@ -5,3 +5,4 @@ export function run(): void {
 export const VERSION = "0.1.0";
 // guard against empty input
 // guard against empty input
+// keep defaults in sync with the manifest
