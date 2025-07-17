@@ -10,3 +10,4 @@ Notes and usage details for aside-codemode.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
